@@ -1,0 +1,12 @@
+.brand-picture {
+  max-width: 250px;
+}
+.brand-picture > img {
+  max-height: 70px;
+}
+.nav-wrapper {
+  background-color: rgba(255, 255, 255, 0.63);
+}
+.nav-content {
+  margin: 0 50px;
+}

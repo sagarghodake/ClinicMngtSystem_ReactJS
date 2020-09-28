@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  display: flex !important;
+  min-height: 100vh !important;
+  flex-direction: column !important;
+  font-family: "popins", sans-serif !important;
+  background-image: url("../img/main_background.png");
+  background-size: 100% 100%;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+main {
+  flex: 1 0 auto !important;
+}
+.App {
+  flex: 1 0 auto !important;
+}

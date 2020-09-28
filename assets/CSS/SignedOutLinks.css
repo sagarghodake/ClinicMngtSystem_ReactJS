@@ -1,0 +1,36 @@
+.nav__left__icon {
+  margin: -5px !important;
+  padding: 2px;
+  color: rgb(59, 59, 59);
+}
+
+.socials-icon {
+  padding: 5px;
+  margin-left: 10px;
+}
+.socials-icon > a {
+  border: 3px solid rgb(59, 59, 59);
+  border-radius: 50%;
+}
+.nav-wrapper {
+  margin-top: 20px;
+  padding: 10px;
+  box-shadow: none !important;
+  background-color: transparent !important;
+  display: flex;
+  justify-content: space-between;
+}
+.brand-picture {
+  max-width: 900px !important;
+  margin-left: 50px;
+  margin-top: -10px;
+}
+
+.brand-picture > img {
+  max-height: 900px !important;
+  width: 400px;
+  height: 100px !important;
+}
+.signin-links {
+  margin-bottom: 10px;
+}
